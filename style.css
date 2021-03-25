@@ -51,7 +51,8 @@ body {
     height: 3rem;
     padding: 10px 25px;
     border: none;
-    background-color: #00b249;
+    /* background-color: #00b249; */
+    background-color: #ff0000;
     color: #fff;
     font-size: 17px;
     margin-bottom: 1rem;
